@@ -78,6 +78,7 @@ main {
 #pmo:hover, #leyes:hover {
     background-color: #E7E7E7;
     color: #50535C;
+    border-color: #50535C;;
 }
 
 label[for="categoria"], label[for="busqueda"], .texto-o {
