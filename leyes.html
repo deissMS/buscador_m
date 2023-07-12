@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leyes Especiales | Ministerio de Salud</title>
+  <link rel="stylesheet" type="text/css" href="styles_leyes.css">
+  <link rel = "shortcut icon", href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Encode+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div id="header-content">
+      <a href="https://www.argentina.gob.ar/salud" target="_blank" rel="noopener">
+        <img id="logo" src="www/logo.png" class="logo" alt="Logo">
+      </a>
+      <h1>Leyes Especiales</h1>
+    </div>
+  </header>
+
+  <main>
+    <section id="texto-arriba">
+      <p id="titulo">Buscador de prestaciones</p>
+      <p class="parrafo">A través de este buscador podrá acceder a datos de prestaciones o canastas prestacionales cuya cobertura está garantizada por un conjunto de Leyes Especiales y su respectiva 
+        normativa reglamentaria. Para ello deberá introducir el nombre de la prestación buscada, 
+        o bien seleccionar alguna de las categorías disponibles en el desplegable. Como resultado de la búsqueda obtendrá datos sobre la prestación y el nivel de cobertura que rige para ella.</p>
+    </section>
+    <section id="buscador-seccion">
+      <form id="buscador">
+        <label for="busqueda">Introducí una prestación:</label>
+        <input type="search" id="busqueda" name="busqueda" placeholder="Ej. Insulina, Amoxicilina...">
+        <p class="texto-o">ó</p>
+        <label for="categoria">Seleccioná una categoría:</label>
+        <select id="categoria">
+          <option value="">Seleccioná una categoría...</option>
+        </select>
+        <button type="submit">Buscar</button>
+      </form>
+    </section>
+
+    <section id="texto-seccion">
+      <div class="acciones">
+        <button id="descargar-resultados" class="boton-accion">Descargar Resultados</button>
+        <button id="descargar-consolidado" class="boton-accion">Descargar Canasta Prestacional</button>
+        <button id="ver-legislacion" class="boton-accion">Ver legislación</button>
+      </div>
+      <h2 class="titulo-resultado">Resultado de la búsqueda:</h2>
+    </section>
+  </main>
+
+  <footer>
+      <img id="marca" src="www/marca.png" alt="Marca">
+  </footer>
+
+  <script src="script_leyes.js"></script>
+  <script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+</body>
+</html>
