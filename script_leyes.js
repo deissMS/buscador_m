@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    fetch('consolidado_leyes.json')
+    fetch('https://github.com/deissMS/buscador_m/consolidado_leyes.json')
     .then(response => response.json())
     .then(data => {
         let categories = [...new Set(data.map(item => item.categoria))];
