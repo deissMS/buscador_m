@@ -1,0 +1,245 @@
+header {
+    background-color: #50535C; /* #37BBED */
+    width: 100%;
+    /* border-bottom-left-radius: 15px;
+    /* border-bottom-right-radius: 15px; */
+}
+
+body {
+    margin: 0; 
+    padding: 0;
+}
+
+h1 {
+    margin-left: 32px;
+    font-family: "Encode Sans", sans-serif;
+    color: #F5F5F5;
+}
+
+#logo {
+    margin-left: 32px;
+    padding: 12px;
+    height: 75px; 
+    width: auto; 
+}
+
+#marca {
+    border-top: 1px solid #E7E7E7;
+    display: flex;
+    align-items: space-around;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 26px;
+    width: 90%;
+    height: auto;
+    max-width: 1400px;
+}
+
+#header-content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; 
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+#buscador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70%; 
+    margin: 0 auto;
+}
+
+#busqueda, #buscador button, #categoria, #pmo, #leyes {
+    font-size: 16px;
+    padding: 10px;
+    margin: 4px;
+    margin-bottom: 42px;
+    border: 1px solid #E7E7E7; 
+    border-radius: 5px;
+    width: 100%;
+    outline: none;
+    box-sizing: border-box; 
+}
+
+#pmo, #leyes {
+    margin: 15px;
+    width: 16%;
+    background-color: #50535C;
+    color: #E7E7E7;
+    margin-bottom: 32px;
+}
+
+#pmo:hover, #leyes:hover {
+    background-color: #E7E7E7;
+    color: #50535C;
+}
+
+label[for="categoria"], label[for="busqueda"], .texto-o {
+    font-size: 16px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+#buscador button {
+    padding: 10px 20px;
+    width: 50%;
+    background-color: #E7E7E7;
+    color: #50535C;
+}
+
+#buscador button:hover {
+    padding: 10px 20px;
+    width: 50%;
+    background-color: #50535C;
+    color: #E7E7E7;
+}
+
+#buscador-seccion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    flex-direction: column;
+}
+
+.buttons-wrapper {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+
+}
+
+#buscar {
+    width: 50%;
+    margin-right: 10px;
+}
+
+select#categoria {
+    color: #757883;
+    font-family: "Roboto", sans-serif;
+    margin-top: 22px;
+}
+
+#titulo, #titulo_2 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    padding: 6;
+    margin: 10px 25px 10px 0px;
+}
+
+.titulo-resultado {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    padding: 6px;
+    margin: 25px 25px 20px 45px;
+}
+
+.titulo-index {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    padding: 6px;
+    margin: 15px 15px 8px 25px;
+}
+
+.parrafo {
+    font-size: 16px;
+    font-family: "Encode Sans", sans-serif;
+    line-height: 2;
+    padding: 6;
+    margin: 10px 25px 35px 0;
+}
+
+#texto-arriba {
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    flex: 1;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 26px;
+}
+
+#texto-seccion {
+    display: none;
+}
+
+.nombre-resultado {
+    font-family: "Encode Sans", sans-serif;
+    color: #50535C;
+    line-height: 1.1;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 6;
+    margin: 10px 25px 10px 51px;
+}
+
+.resultado {
+    font-family: "Encode Sans", sans-serif;
+    color: #50535C;
+    line-height: 1.1;
+    font-size: 14px;
+    margin: 0px 65px 10px 51px;
+}
+
+hr {
+    width: 60%;
+    border-top: 0.75px solid #37BBED;
+    margin: 20px 75px 20px 51px;
+}
+
+.acciones {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.boton-accion {
+    font-size: 14px;
+    font-family: "Encode Sans", sans-serif;
+    color: #E7E7E7;
+    padding: 10px;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    width: auto;
+    outline: none;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #50535C;
+    text-decoration: none;
+}
+
+.boton-accion:hover {
+    color: #50535C;
+    background-color: #E7E7E7;
+    cursor: pointer;
+}
+
+.acciones a.btn {
+    display: inline-block;
+}
+
+.contenedor {
+    background-color: #E7E7E7;
+    border: #50535C;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 60px 240px 0px 240px;
+  }
+  
+.contenedor p {
+    font-size: 16px;
+    font-family: "Encode Sans", sans-serif;
+    line-height: 2;
+    padding: 6px;
+    margin: 25px;
+    text-align: justify;
+}
