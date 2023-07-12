@@ -245,6 +245,22 @@ hr {
     text-align: justify;
 }
 
+.links {
+    color: #50535C;
+    font-family: "Encode Sans", sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: none;
+}
+
+.links:hover {
+    color: #37BBED;
+    font-family: "Encode Sans", sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: none;
+}
+
 @media screen and (max-width: 768px) {
     h1 {
         min-width: auto;
