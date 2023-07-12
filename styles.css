@@ -245,3 +245,75 @@ hr {
     margin: 25px;
     text-align: justify;
 }
+
+@media screen and (max-width: 768px) {
+
+    h1 {
+        min-width: auto;
+    }
+
+    #marca {
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    #buscador {
+        width: 90%; 
+    }
+
+    #pmo, #leyes {
+        width: 90%;
+    }
+
+    #buscador button {
+        width: 100%;
+    }
+
+    .buttons-wrapper {
+        flex-direction: column;
+    }
+
+    #buscar {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    #texto-arriba {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .contenedor {
+        margin: 30px 20px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    
+    h1 {
+        margin-left: 16px;
+        font-size: 1.5em;
+    }
+
+    #logo {
+        margin-left: 16px;
+        height: 50px;
+    }
+
+    #marca {
+        margin-top: 30px;
+    }
+
+    #buscador button {
+        padding: 5px 10px;
+    }
+
+    #texto-arriba {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .contenedor {
+        margin: 20px 10px;
+    }
+}
