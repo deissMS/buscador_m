@@ -40,68 +40,68 @@ document.addEventListener('DOMContentLoaded', (event) => {
                     if (isNumeric(obj.cobertura)) {
                       coberturaText = (obj.cobertura * 100) + '%';
                     } else {
-                      coberturaText = obj.cobertura;
+                    coberturaText = obj.cobertura;
                     }
                     return '<p class="nombre-resultado">'+ obj.nombre +'</p>' +
-                           '<p class="resultado">CategorÍa: ' + obj.categoria + '</p>' +
-                           '<p class="resultado">Normativa que la incluye: ' + obj.norma + ', ' + obj.norma_1 + ', ' + obj.norma_2 + '</p>' +
-                           '<p class="resultado"><b>Nivel de cobertura: ' + coberturaText + '</b></p>' +
-                           '<p class="resultado">Recomendaciones de uso: ' + obj.recomendaciones + '</p>';
+                        '<p class="resultado">CategorÍa: ' + obj.categoria + '</p>' +
+                        '<p class="resultado">Normativa que la incluye: ' + obj.norma + ', ' + obj.norma_1 + ', ' + obj.norma_2 + '</p>' +
+                        '<p class="resultado"><b>Nivel de cobertura: ' + coberturaText + '</b></p>' +
+                        '<p class="resultado">Recomendaciones de uso: ' + obj.recomendaciones + '</p>';
                 });
 
                 var tituloResultado = resultado.length === 1 ? "Resultado de la búsqueda: 1 prestación encontrada" : "Resultado de la búsqueda: " + resultado.length + " prestaciones encontradas";
 
                 document.getElementById('texto-seccion').innerHTML = `
-                  <div class="acciones">
+                <div class="acciones">
                     <button id="descargar-resultados" class="boton-accion">Descargar Resultados</button>
                     <button id="descargar-consolidado" class="boton-accion">Descargar Canasta Prestacional</button>
                     <button id="ver-legislacion" class="boton-accion">Ver legislación</button>
-                  </div>
-                  <h2 class="titulo-resultado">${tituloResultado}</h2>
-                  ` + coberturas.join('<hr>');
+                </div>
+                <h2 class="titulo-resultado">${tituloResultado}</h2>
+                ` + coberturas.join('<hr>');
 
                 document.getElementById('descargar-consolidado').addEventListener('click', function() {
-                  window.location.href = 'data/consolidado_leyes.xlsx'; 
+                window.location.href = 'data/consolidado_leyes.xlsx'; 
                 });
 
                 document.getElementById('ver-legislacion').addEventListener('click', function() {
-                  window.open('legislacion.html', '_blank');
+                window.open('legislacion.html', '_blank');
                 });
 
                 document.getElementById('descargar-resultados').addEventListener('click', function() {
                   /* Crear un objeto de libro de trabajo */
-                  var wb = XLSX.utils.book_new();
-                  wb.Props = {
-                      Title: "Resultados de la búsqueda",
-                      Author: "Tu nombre",
-                      CreatedDate: new Date()
-                  };
+                var wb = XLSX.utils.book_new();
+                wb.Props = {
+                    Title: "Resultados de la búsqueda",
+                    Author: "Tu nombre",
+                    CreatedDate: new Date()
+                };
 
                   /* Crear una hoja de cálculo */
-                  wb.SheetNames.push("Resultados");
+                wb.SheetNames.push("Resultados");
 
                   /* Convertir los datos a formato de hoja de cálculo */
-                  var ws_data = resultado.map(function(obj) {
-                      return [
-                          obj.nombre,
-                          obj.categoria,
-                          obj.norma,
-                          obj.norma_1,
-                          obj.norma_2,
+                var ws_data = resultado.map(function(obj) {
+                    return [
+                        obj.nombre,
+                        obj.categoria,
+                        obj.norma,
+                        obj.norma_1,
+                        obj.norma_2,
                           isNumeric(obj.cobertura) ? (obj.cobertura * 100) + '%' : obj.cobertura,
-                          obj.recomendaciones
-                      ];
-                  });
+                        obj.recomendaciones
+                    ];
+                });
                   ws_data.unshift(["Nombre", "Categoría", "Normativa", "Normativa 1", "Normativa 2", "Nivel de cobertura", "Recomendaciones"]); // Añadir encabezados de columna
 
-                  var ws = XLSX.utils.aoa_to_sheet(ws_data);
+                var ws = XLSX.utils.aoa_to_sheet(ws_data);
 
                   /* Añadir la hoja de cálculo al libro de trabajo */
-                  wb.Sheets["Resultados"] = ws;
+                wb.Sheets["Resultados"] = ws;
 
                   /* Guardar el libro de trabajo como archivo XLSX */
-                  var wbout = XLSX.write(wb, {bookType:'xlsx', type: 'binary'});
-                  saveAs(new Blob([s2ab(wbout)],{type:"application/octet-stream"}), 'resultados.xlsx');
+                var wbout = XLSX.write(wb, {bookType:'xlsx', type: 'binary'});
+                saveAs(new Blob([s2ab(wbout)],{type:"application/octet-stream"}), 'resultados.xlsx');
                 });
             } else {
                 alert('No se encontró el valor buscado');
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 function isNumeric(n) {
-  return !isNaN(parseFloat(n)) && isFinite(n);
+return !isNaN(parseFloat(n)) && isFinite(n);
 }
 
 function s2ab(s) { 
