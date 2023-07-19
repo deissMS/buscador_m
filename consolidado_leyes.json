@@ -1945,7 +1945,7 @@
  },
  {
   "nombre": "Tratamientos de desintoxicación y rehabilitación mencionados en los artículos 16, 17, 18 y 19 de la Ley 23.737",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "-",
   "norma_2": "-",
@@ -1954,7 +1954,7 @@
  },
  {
   "nombre": "Tratamientos farmacológicos",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "-",
   "norma_2": "-",
@@ -1963,7 +1963,7 @@
  },
  {
   "nombre": "Doble terapia antirretroviral",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
@@ -1972,7 +1972,7 @@
  },
  {
   "nombre": "Doble terapia antirretroviral con inhibidor de proteasa",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
@@ -1981,7 +1981,7 @@
  },
  {
   "nombre": "Triple combinación antirretroviral",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
@@ -1990,7 +1990,7 @@
  },
  {
   "nombre": "Terapias antirretrovirales en pediatría",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
@@ -1999,7 +1999,7 @@
  },
  {
   "nombre": "Tratamientos médicos y psicológicos",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "-",
   "norma_2": "-",
@@ -2007,8 +2007,8 @@
   "recomendaciones": "Para personas infectadas por algunos de los retrovirus humanos y los que padecen el síndrome de inmuno deficiencia adquirida (SIDA) y\/o las enfermedades intercurrentes"
  },
  {
-  "nombre": "Cobertura por drogadependencia (consulta, hospital e internación)",
-  "categoria": "VIH y Drogadicción",
+  "nombre": "Cobertura por consumo problemático (consulta, hospital e internación)",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
@@ -2017,7 +2017,7 @@
  },
  {
   "nombre": "Test carga viral (B-DNA)",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
@@ -2026,7 +2026,7 @@
  },
  {
   "nombre": "Test recuento CD4\/CD8",
-  "categoria": "VIH y Drogadicción",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
@@ -2034,8 +2034,8 @@
   "recomendaciones": "No tiene"
  },
  {
-  "nombre": "Programas de prevención del SIDA y la drogadicción",
-  "categoria": "VIH y Drogadicción",
+  "nombre": "Programas de prevención del SIDA y consumo problemático",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "-",
   "norma_2": "-",
@@ -2043,8 +2043,8 @@
   "recomendaciones": "No tiene"
  },
  {
-  "nombre": "Programas de prevención del SIDA y la drogadicción",
-  "categoria": "VIH y Drogadicción",
+  "nombre": "Programas de prevención del SIDA y consumo problemático",
+  "categoria": "VIH y Consumo Problemático",
   "norma": "Ley N° 24.455",
   "norma_1": "Decreto 580\/95",
   "norma_2": "Resolución 709\/97",
