@@ -102,8 +102,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
                     <button id="ver-legislacion" class="boton-accion">Ver legislación</button>
                 </div>
                 <h2 class="titulo-resultado">${tituloResultado}</h2>
-                <p class="subtitulo-resultado">En el caso de que las prestaciones se brinden en modalidad de internación, el Anexo I de la Resolución 201/2002 MS del PMO establece que la cobertura de las mismas será del 100%. 
-                Para aquellos casos en donde las prestaciones sean ambulatorias, y con excepción de los casos en donde la legislación establece un nivel de cobertura explícito, los financiadores tienen permitido el cobro de un coseguro. 
+                <p class="subtitulo-resultado">En caso de que las prestaciones se brinden en modalidad de internación, el Anexo I de la Resolución 201/2002 MS del PMO establece que la cobertura de las mismas deberá ser del 100%. 
+                Para aquellos casos en donde las prestaciones sean ambulatorias, y con excepción de aquellas en donde la legislación establece un nivel de cobertura explícito, los financiadores tienen permitido el cobro de un coseguro. 
                 Podés ver los valores de coseguros máximos autorizados por la Superintendencia de Servicios de Salud <a class="links" href="https://www.argentina.gob.ar/sssalud/valores-coseguros" target="_blank" rel="noopener">haciendo clic aquí</a>.</p>
                 ` + coberturas.join('<hr>');
 
