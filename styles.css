@@ -141,6 +141,20 @@ select#categoria {
     margin: 25px 25px 20px 45px;
 }
 
+.subtitulo-resultado {
+    color: #50535C;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    margin: 20px 70px 20px 51px;
+    width: 60%;
+    border-top: 1px solid #757883;
+    border-bottom: 1px solid #757883;
+}
+
 .titulo-index {
     font-size: 22px;
     font-weight: bold;

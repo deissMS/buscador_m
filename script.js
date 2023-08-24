@@ -22,12 +22,15 @@ document.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById('buscador').addEventListener('submit', function(e) {
             e.preventDefault();
             document.getElementById('texto-seccion').innerHTML = ''; // limpia los resultados anteriores
-            var valorBuscado = document.getElementById('busqueda').value;
+            var valorBuscado = eliminarAcentos(document.getElementById('busqueda').value.toLowerCase());
             var valorCategoria = document.getElementById('categoria').value;
 
             var resultado = data.filter(function(obj) {
+                let nombreNormalizado = eliminarAcentos(obj.nombre.toLowerCase());
+                let categoriaNormalizada = eliminarAcentos(obj.categoria.toLowerCase());
+
                 if (valorBuscado !== "") {
-                    return obj.nombre.toLowerCase().includes(valorBuscado.toLowerCase()) || obj.categoria.toLowerCase().includes(valorBuscado.toLowerCase());
+                    return nombreNormalizado.includes(valorBuscado) || categoriaNormalizada.includes(valorBuscado);
                 } else {
                     return obj.categoria === valorCategoria;
                 }
@@ -56,21 +59,28 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 <div class="acciones">
                     <button id="descargar-resultados" class="boton-accion">Descargar Resultados</button>
                     <button id="descargar-consolidado" class="boton-accion">Descargar Canasta Prestacional</button>
-                    <a href="https://www.argentina.gob.ar/normativa/nacional/resolución-201-2002-73649/actualizacion" target="_blank" class="boton-accion">Ver legislación</a>
+                    <button id="ver-legislacion" class="boton-accion">Ver legislación</button>
                 </div>
                 <h2 class="titulo-resultado">${tituloResultado}</h2>
+                <p class="subtitulo-resultado">En el caso de que las prestaciones se brinden en modalidad de internación, el Anexo I de la Resolución 201/2002 MS del PMO establece que la cobertura de las mismas será del 100%. 
+                Para aquellos casos en donde las prestaciones sean ambulatorias, y que la legislación no establezca un nivel de cobertura explícito, los financiadores tienen permitido el cobro de un coseguro. 
+                Podés ver los valores de coseguros máximos autorizados por la Superintendencia de Servicios de Salud <a class="links" href="https://www.argentina.gob.ar/sssalud/valores-coseguros" target="_blank" rel="noopener">haciendo clic aquí</a>.</p>
                 ` + coberturas.join('<hr>');
 
                 document.getElementById('descargar-consolidado').addEventListener('click', function() {
                   window.location.href = 'data/consolidado.xlsx'; // Cambiar la ruta del archivo si es necesario
                 });
 
+                document.getElementById('ver-legislacion').addEventListener('click', function() {
+                    window.open('legislacion.html', '_blank');
+                    });
+                    
                 document.getElementById('descargar-resultados').addEventListener('click', function() {
                   /* Crear un objeto de libro de trabajo */
                 var wb = XLSX.utils.book_new();
                 wb.Props = {
                     Title: "Resultados de la búsqueda",
-                    Author: "Tu nombre",
+                    Author: "Ministerio de Salud de la Nación",
                     CreatedDate: new Date()
                 };
 
@@ -117,8 +127,12 @@ document.getElementById('leyes').addEventListener('click', function(e) {
     window.open('leyes.html', '_blank');
 });
 
+function eliminarAcentos(texto) {
+    return texto.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+}
+
 function isNumeric(n) {
-return !isNaN(parseFloat(n)) && isFinite(n);
+    return !isNaN(parseFloat(n)) && isFinite(n);
 }
 
 function s2ab(s) { 
