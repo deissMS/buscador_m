@@ -60,12 +60,17 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
                 if (valorBuscado !== "") {
                     if (nombreNormalizado.includes(valorBuscado) || categoriaNormalizada.includes(valorBuscado)) {
+                        obj.levenshteinDistance = 0; // Distancia 0 para coincidencias exactas
                         return true;
                     }
-                
+                    
+                    let umbralLevenshtein = getLevenshteinThreshold(valorBuscado); // Obtener el umbral basado en la longitud de la palabra
+                    
                     for (let i = 0; i <= nombreNormalizado.length - valorBuscado.length; i++) {
                         const segmento = nombreNormalizado.substr(i, valorBuscado.length);
-                        if (levenshtein(segmento, valorBuscado) <= 4) {
+                        let distance = levenshtein(segmento, valorBuscado);
+                        if (distance <= umbralLevenshtein) {
+                            obj.levenshteinDistance = distance;
                             return true;
                         }
                     }
@@ -75,6 +80,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
                     return obj.categoria === valorCategoria;
                 }
             });
+
+            resultado.sort((a, b) => a.levenshteinDistance - b.levenshteinDistance);
 
             if (resultado.length > 0) {
                 document.getElementById('texto-seccion').style.display = 'block';
@@ -156,6 +163,16 @@ document.addEventListener('DOMContentLoaded', (event) => {
     })
     .catch(error => console.error('Error:', error));
 });
+
+function getLevenshteinThreshold(word) {
+    if(word.length < 5) {
+        return 1; // Umbral estricto para palabras cortas
+    } else if(word.length < 8) {
+        return 2; // Umbral medio para palabras de longitud media
+    } else {
+        return 3; // Umbral más flexible para palabras largas
+    }
+}
 
 document.getElementById('pmo').addEventListener('click', function(e) {
     e.preventDefault();
