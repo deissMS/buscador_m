@@ -116,7 +116,8 @@
   "submodulo": "-",
   "codigo": "1.08.1",
   "prestacion": "Estudios endoscópicos diagnósticos (digestivo-urodigestivo-laríngeo-bronquial).",
-  "arancel": 22828
+  "arancel": 22828,
+  "observaciones": "-"
  },
  {
   "modulo": "1. ATENCIÓN AMBULATORIA",
@@ -347,42 +348,48 @@
   "submodulo": "MÓDULOS PARA EL MANEJO CRÍTICO DEL PACIENTE ACCIDENTADO",
   "codigo": "4.15",
   "prestacion": "Traumatismos múltiples que requieren internación no menor de cinco días para observación y estudios especializados.Internación en observación de menos duración se facturará por módulo clínico.",
-  "arancel": 70101
+  "arancel": 70101,
+  "observaciones": "-"
  },
  {
   "modulo": "4. INTERNACIÓN",
   "submodulo": "MÓDULOS PARA EL MANEJO CRÍTICO DEL PACIENTE ACCIDENTADO",
   "codigo": "4.16",
   "prestacion": "Pacientes cuyo índice G.C.S ( Glasgow Coma Scale) es de 12 a 13 puntos. Su tratamiento incluye cirugía de alguna de las especialidades.",
-  "arancel": 184013
+  "arancel": 184013,
+  "observaciones": "-"
  },
  {
   "modulo": "4. INTERNACIÓN",
   "submodulo": "MÓDULOS PARA EL MANEJO CRÍTICO DEL PACIENTE ACCIDENTADO",
   "codigo": "4.17",
   "prestacion": "Pacientes cuyo índice G.C.S es de 10 a 11 puntos. Su tratamiento incluye cirugía y ventilación asistida.",
-  "arancel": 284788
+  "arancel": 284788,
+  "observaciones": "-"
  },
  {
   "modulo": "4. INTERNACIÓN",
   "submodulo": "MÓDULOS PARA EL MANEJO CRÍTICO DEL PACIENTE ACCIDENTADO",
   "codigo": "4.18",
   "prestacion": "Pacientes con G.C.S es de 8 a 9 puntos. Su tratamiento incluye ventilación asistida y más de una intervención quirúrgica.",
-  "arancel": 438132
+  "arancel": 438132,
+  "observaciones": "-"
  },
  {
   "modulo": "4. INTERNACIÓN",
   "submodulo": "MÓDULOS PARA EL MANEJO CRÍTICO DEL PACIENTE ACCIDENTADO",
   "codigo": "4.19",
   "prestacion": "Pacientes con G.C.S es de 8 a 9 puntos. Su tratamiento incluye ventilación asistida y necesidad de cirugía reconstructiva.",
-  "arancel": 635293
+  "arancel": 635293,
+  "observaciones": "-"
  },
  {
   "modulo": "4. INTERNACIÓN",
   "submodulo": "MÓDULOS PARA EL MANEJO CRÍTICO DEL PACIENTE ACCIDENTADO",
   "codigo": "4.20",
   "prestacion": "Pacientes con G.C.S menor de 8 puntos. Su tratamiento incluye más de una cirugía y asistencia ventilada. Estos pacientes pueden necesitar cirugía reconstructiva.",
-  "arancel": 810543
+  "arancel": 810543,
+  "observaciones": "-"
  },
  {
   "modulo": "5. NEUROCIRUGÍA",
@@ -417,14 +424,16 @@
   "submodulo": "-",
   "codigo": "6.01",
   "prestacion": "Párpados,pterigion,chalazion, ectropion,entropion,biefarochalasis,saco lagrimal,recubrimiento conjuntival, punto vitrea,distriquiasis.",
-  "arancel": 19180
+  "arancel": 19180,
+  "observaciones": "-"
  },
  {
   "modulo": "6. CIRUGÍA OFTALMOLÓGICA",
   "submodulo": "-",
   "codigo": "6.02",
   "prestacion": "Laser argon, only green, yag laser y otros (tratamiento completo por cada ojo).",
-  "arancel": 49695
+  "arancel": 49695,
+  "observaciones": "-"
  },
  {
   "modulo": "6. CIRUGÍA OFTALMOLÓGICA",
@@ -515,7 +524,8 @@
   "modulo": "8. OTORRINOLARINGOLOGÍA",
   "codigo": "8.03.1",
   "prestacion": "Linfadenectomía total o parcial con o sin vaciamiento ganglionar.",
-  "arancel": 117220
+  "arancel": 117220,
+  "observaciones": "-"
  },
  {
   "modulo": "8. OTORRINOLARINGOLOGÍA",
@@ -633,13 +643,15 @@
   "modulo": "12. ELECTROFISIOLOGÍA",
   "codigo": "12.02",
   "prestacion": "Estudio electrofisiológico complejo (mapeo de arritmias).",
-  "arancel": 83764
+  "arancel": 83764,
+  "observaciones": "-"
  },
  {
   "modulo": "12. ELECTROFISIOLOGÍA",
   "codigo": "12.03",
   "prestacion": "Terapeútica de arritmias por catéter (ablación por radiofrecuencia).",
-  "arancel": 168238
+  "arancel": 168238,
+  "observaciones": "-"
  },
  {
   "modulo": "13. CIRUGÍA VASCULAR PERIFÉRICA",
@@ -680,13 +692,15 @@
   "modulo": "14. CIRUGÍA LAPAROSCÓPICA",
   "codigo": "14.01",
   "prestacion": "Laparoscopía diagnóstica abdominal,ginecológica o torácica.",
-  "arancel": 81997
+  "arancel": 81997,
+  "observaciones": "-"
  },
  {
   "modulo": "14. CIRUGÍA LAPAROSCÓPICA",
   "codigo": "14.02",
   "prestacion": "Hernioplastía,apendicectomía,ooforectomía, salpinguectomía laparoscópica.",
-  "arancel": 89704
+  "arancel": 89704,
+  "observaciones": "-"
  },
  {
   "modulo": "14. CIRUGÍA LAPAROSCÓPICA",
@@ -720,7 +734,8 @@
   "modulo": "17. TERAPIA FETAL",
   "codigo": "17.01",
   "prestacion": "Diagnóstico prenatal con vellosidades coriónicas.Transfusión intrautero.",
-  "arancel": 19793
+  "arancel": 19793,
+  "observaciones": "-"
  },
  {
   "modulo": "17. TERAPIA FETAL",
@@ -768,7 +783,8 @@
   "modulo": "18. CIRUGÍA GINECOLÓGICA",
   "codigo": "18.05.1",
   "prestacion": "Reconstrucción mamaria con colocación expansor.",
-  "arancel": 109533
+  "arancel": 109533,
+  "observaciones": "-"
  },
  {
   "modulo": "18. CIRUGÍA GINECOLÓGICA",
@@ -1054,13 +1070,15 @@
   "modulo": "28. QUEMADOS",
   "codigo": "28.01",
   "prestacion": "Internación de Unidad de Cuidados Generales.",
-  "arancel": 18217
+  "arancel": 18217,
+  "observaciones": "-"
  },
  {
   "modulo": "28. QUEMADOS",
   "codigo": "28.02",
   "prestacion": "Internación de Unidad de Cuidados Intermedios.",
-  "arancel": 30246
+  "arancel": 30246,
+  "observaciones": "-"
  },
  {
   "modulo": "28. QUEMADOS",
@@ -1191,28 +1209,32 @@
   "submodulo": "REHABILITACIÓN - TALLERES PROTEGIDOS",
   "codigo": "29.14",
   "prestacion": "Adaptación (por dia y por paciente, hasta 3° mes inclusive).",
-  "arancel": 7609
+  "arancel": 7609,
+  "observaciones": "-"
  },
  {
   "modulo": "29. SALUD MENTAL",
   "submodulo": "REHABILITACIÓN - TALLERES PROTEGIDOS",
   "codigo": "29.15",
   "prestacion": "Capacitación (por dia y por paciente, del 4° mes hasta el 15° mes inclusive).",
-  "arancel": 7609
+  "arancel": 7609,
+  "observaciones": "-"
  },
  {
   "modulo": "29. SALUD MENTAL",
   "submodulo": "PERSONAS CON DISCAPACIDAD INTELECTUAL",
   "codigo": "29.16",
   "prestacion": "Hospital de dia jornada completa (por dia).",
-  "arancel": 12988
+  "arancel": 12988,
+  "observaciones": "-"
  },
  {
   "modulo": "29. SALUD MENTAL",
   "submodulo": "PERSONAS CON DISCAPACIDAD INTELECTUAL",
   "codigo": "29.17",
   "prestacion": "Hospital de medio dia (por dia).",
-  "arancel": 7609
+  "arancel": 7609,
+  "observaciones": "-"
  },
  {
   "modulo": "30. MEDICINA NUCLEAR",
@@ -1253,13 +1275,15 @@
   "modulo": "30. MEDICINA NUCLEAR",
   "codigo": "30.05.1",
   "prestacion": "Detección de tumores con marcadores específicos e inespecíficos.",
-  "arancel": 81286
+  "arancel": 81286,
+  "observaciones": "-"
  },
  {
   "modulo": "31. TERAPIA RADIANTE",
   "codigo": "31.01",
   "prestacion": "TELECOBALTOTERAPIA",
-  "arancel": 52574
+  "arancel": 52574,
+  "observaciones": "-"
  },
  {
   "modulo": "31. TERAPIA RADIANTE",
@@ -1300,7 +1324,8 @@
   "modulo": "31. TERAPIA RADIANTE",
   "codigo": "31.07",
   "prestacion": "ACELERADOR LINEAL TRIDIMENSIONAL",
-  "arancel": 262877
+  "arancel": 262877,
+  "observaciones": "-"
  },
  {
   "modulo": "32. TOMOGRAFÍA COMPUTADA Y RESONANCIA MAGNÉTICA",
@@ -1404,133 +1429,155 @@
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.01",
   "prestacion": "Anestesia general, epidural, regional.",
-  "arancel": 9031
+  "arancel": 9031,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.02",
   "prestacion": "Estudios endoscópicos terapeúticos complejos: esfinteropapiloplastía extracción de cálculo biliar,drenaje vía biliar,colocación de prótesis, colangiografía retrógrada, cirugía de fosas nasales.",
-  "arancel": 102460
+  "arancel": 102460,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.03",
   "prestacion": "Estudio urodinámico completo: determinación de presiones, flujo uretral, electromiografía.",
-  "arancel": 25981
+  "arancel": 25981,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.04",
   "prestacion": "Estudio funcional respiratorio completo:volúmenes pulmonares. distensibilidad dinámica,difusión pulmonar,presión inspiratoria, respiratoria de oclusión,transdiafragmática,trabajo respiratorio.",
-  "arancel": 21349
+  "arancel": 21349,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.05",
   "prestacion": "Estudio funcional respiratorio parcial: hasta tres pruebas del cod. 35.04.",
-  "arancel": 3977
+  "arancel": 3977,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.06",
   "prestacion": "Criocirugía.",
-  "arancel": 17851
+  "arancel": 17851,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.07",
   "prestacion": "Inmunofluorescencia en anatomia patológica.",
-  "arancel": 10510
+  "arancel": 10510,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.08",
   "prestacion": "Mapeo cerebral.",
-  "arancel": 19062
+  "arancel": 19062,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.09",
   "prestacion": "Manometría digital digestiva.",
-  "arancel": 15296
+  "arancel": 15296,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.10",
   "prestacion": "Aféresis: plaquetoféresis, leucoféresis, plasmaféresis.",
-  "arancel": 104500
+  "arancel": 104500,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.11",
   "prestacion": "Polisomnografía.",
-  "arancel": 21349
+  "arancel": 21349,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.12",
   "prestacion": "Polisomnografía con oximetría.",
-  "arancel": 21349
+  "arancel": 21349,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.13",
   "prestacion": "Punción dirigida bajo ECO.",
-  "arancel": 19793
+  "arancel": 19793,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.14",
   "prestacion": "Punción dirigida bajo TAC.",
-  "arancel": 25213
+  "arancel": 25213,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.15",
   "prestacion": "Tratamiento integral del niño diabético c\/bomba de insulina.",
-  "arancel": 21025
+  "arancel": 21025,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.16",
   "prestacion": "Toracoscopía. Laparoscopía diagnóstica.",
-  "arancel": 87396
+  "arancel": 87396,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.17",
   "prestacion": "Monitoreo de presión intracraneana.",
-  "arancel": 73620
+  "arancel": 73620,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.18",
   "prestacion": "Videofluoroscopía de la deglución.",
-  "arancel": 13838
+  "arancel": 13838,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.19",
   "prestacion": "Drenaje biliar externo percutáneo con guía ecográfica y radioscópica.",
-  "arancel": 27480
+  "arancel": 27480,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.20",
   "prestacion": "Tratamiento percutáneo de la estenosis biliar.",
-  "arancel": 79673
+  "arancel": 79673,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.21",
   "prestacion": "Drenaje de abscesos guiados por ecografía.",
-  "arancel": 84763
+  "arancel": 84763,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
   "codigo": "35.22",
   "prestacion": "Gastroctomía o gastroyeyunostomía percutánea bajo guía ecográfica y radioscópica.",
-  "arancel": 92836
+  "arancel": 92836,
+  "observaciones": "-"
  },
  {
   "modulo": "35. PRÁCTICAS DE DIAGNÓSTICO Y TRATAMIENTO",
@@ -1576,42 +1623,48 @@
   "submodulo": "GAMAPATÍAS MONOCLONALES",
   "codigo": "38.05",
   "prestacion": "Protocolo de Screening.",
-  "arancel": 1746
+  "arancel": 1746,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "GAMAPATÍAS MONOCLONALES",
   "codigo": "38.06",
   "prestacion": "Protocolo de tipificación de bandas monoclonadas.",
-  "arancel": 5265
+  "arancel": 5265,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "GAMAPATÍAS MONOCLONALES",
   "codigo": "38.07",
   "prestacion": "Protololo de seguimiento.",
-  "arancel": 6574
+  "arancel": 6574,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "GAMAPATÍAS MONOCLONALES",
   "codigo": "38.08",
   "prestacion": "Protocolo de esclerosis múltiple y polineuropatÍas (en LCR y suero) a ambos",
-  "arancel": 5265
+  "arancel": 5265,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "GAMAPATÍAS MONOCLONALES",
   "codigo": "38.09",
   "prestacion": "Estudios de proteinurias.",
-  "arancel": 8763
+  "arancel": 8763,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "AUTO ANTICUERPOS (por estudio)",
   "codigo": "38.10",
   "prestacion": "Enfermedades dermatológicas:(ICS)- Anticuerpos antirreticulina (IFI) antirreticulina IFI.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
@@ -1626,7 +1679,8 @@
   "submodulo": "AUTO ANTICUERPOS (por estudio)",
   "codigo": "38.12",
   "prestacion": "Biopsia de piel (IFD) - Anticuerpos anti tgt- Anticuerpos anti GAG. Anticuerpos antiendomisio IgA.",
-  "arancel": 2767
+  "arancel": 2767,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
@@ -1665,35 +1719,40 @@
   "submodulo": "ESTUDIOS CELULARES (POR ESTUDIO).",
   "codigo": "38.17",
   "prestacion": "Cuantificación STEM CELLS - CD34 - CD4 - CD4+CD8.",
-  "arancel": 6898
+  "arancel": 6898,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS CELULARES (POR ESTUDIO).",
   "codigo": "38.18",
   "prestacion": "Inmunofenotipo básico. Comprende 6 marcadores celulares. Citometría de flujo.",
-  "arancel": 49288
+  "arancel": 49288,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS CELULARES (POR ESTUDIO).",
   "codigo": "38.19",
   "prestacion": "Sindrome de fatiga crónica - Comprende 6 marcadores celulares. Citometría de flujo.",
-  "arancel": 19716
+  "arancel": 19716,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS CELULARES (POR ESTUDIO).",
   "codigo": "38.20",
   "prestacion": "HIV-SIDA.Comprende 2 marcadores celulares.Citometría de flujo.",
-  "arancel": 5919
+  "arancel": 5919,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS CELULARES (POR ESTUDIO).",
   "codigo": "38.21",
   "prestacion": "Leucemias agudas. Comprende 20 marcadores celulares. Citometría de flujo.",
-  "arancel": 49288
+  "arancel": 49288,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
@@ -1708,35 +1767,40 @@
   "submodulo": "ESTUDIOS CELULARES (POR ESTUDIO).",
   "codigo": "38.23",
   "prestacion": "Resistencia drogas. Citometría de flujo.",
-  "arancel": 6898
+  "arancel": 6898,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS CELULARES (POR ESTUDIO).",
   "codigo": "38.24",
   "prestacion": "Análisis de ADN. Ciclo celular. Citometría de flujo.",
-  "arancel": 30360
+  "arancel": 30360,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "EVOLUCIÓN FUNCIONAL DEL SISTEMA INMUNE",
   "codigo": "38.25",
   "prestacion": "Cultivo mixto linfocitario (por persona). Ch 50 (funcionalidad sistema complemento) - MOT (granulación de neutrófilos).",
-  "arancel": 18526
+  "arancel": 18526,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "EVOLUCIÓN FUNCIONAL DEL SISTEMA INMUNE",
   "codigo": "38.26",
   "prestacion": "Cultivo de linfocitos estimulados con PHA.",
-  "arancel": 18526
+  "arancel": 18526,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.27",
   "prestacion": "Rh completo.",
-  "arancel": 2957
+  "arancel": 2957,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
@@ -1775,70 +1839,80 @@
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.32",
   "prestacion": "Cross Match contra panel de linfocitos anticuerpos HLA en receptor de trasplante renal.",
-  "arancel": 12818
+  "arancel": 12818,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.33",
   "prestacion": "Cross Match contra donante vivo en linfocitos T y B - anticuerpos anti HLA en receptor de trasplante renal en las 48 horas previas al trasplante.",
-  "arancel": 12818
+  "arancel": 12818,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.34",
   "prestacion": "Determinación de antigenos DR en receptor o en donante de trasplante renal o de médula ósea por persona (técnica biología molecular).",
-  "arancel": 29572
+  "arancel": 29572,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.35",
   "prestacion": "Determinación de antígenos DQ en receptor o en donante de trasplante renal o de médula ósea por persona (técnica biología molecular).",
-  "arancel": 31555
+  "arancel": 31555,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.36",
   "prestacion": "Determinación de antígenos DP en receptor o en donante de trasplante renal o de médula ósea por persona (técnica biología molecular).",
-  "arancel": 27593
+  "arancel": 27593,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.37",
   "prestacion": "Cultivo mixto de linfocitos con donante vivo para trasplante renal o de médula ósea por persona.",
-  "arancel": 18526
+  "arancel": 18526,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS DE INMUNO HEMATOLOGÍA (por estudio).",
   "codigo": "38.38",
   "prestacion": "Estudio de compatibilidad matrimonial.",
-  "arancel": 59148
+  "arancel": 59148,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS INMUNOHISTOQUÍMICOS EN ANATOMÍA PATOLÓGICA",
   "codigo": "38.39",
   "prestacion": "Hasta tres determinaciones.",
-  "arancel": 16373
+  "arancel": 16373,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS INMUNOHISTOQUÍMICOS EN ANATOMÍA PATOLÓGICA",
   "codigo": "38.40",
   "prestacion": "Más de tres determinaciones.",
-  "arancel": 16373
+  "arancel": 16373,
+  "observaciones": "-"
  },
  {
   "modulo": "38. INMUNOLOGÍA",
   "submodulo": "ESTUDIOS INMUNOHISTOQUÍMICOS EN ANATOMÍA PATOLÓGICA",
   "codigo": "38.41",
   "prestacion": "Receptores estrogénicos o de progesterona.",
-  "arancel": 16373
+  "arancel": 16373,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -1859,21 +1933,24 @@
   "submodulo": "ODONTOLOGÍA PREVENTIVA",
   "codigo": "39.03",
   "prestacion": "Detección y control de placa bacteriana, enseñanza de cepillado,control de ingesta de hidratos de carbono, test de susceptibilidad de caries, desgaste de trabas dentarias. Tartrectomia.",
-  "arancel": 1309
+  "arancel": 1309,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "ODONTOLOGÍA PREVENTIVA",
   "codigo": "39.04",
   "prestacion": "Aplicación de flúor tópico en ambas arcadas, con o sin cubeta a realizarse pre y post tratamiento.",
-  "arancel": 1097
+  "arancel": 1097,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "ODONTOLOGÍA PREVENTIVA",
   "codigo": "39.05",
   "prestacion": "Aplicación de sellantes de puntos y fisuras por pieza dental.",
-  "arancel": 1097
+  "arancel": 1097,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -1888,14 +1965,16 @@
   "submodulo": "PATOLOGÍA PULPAR",
   "codigo": "39.07",
   "prestacion": "Biopulpectomia parcial o formocresol.",
-  "arancel": 1309
+  "arancel": 1309,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RECONSTRUCCIÓN DENTARIA",
   "codigo": "39.08",
   "prestacion": "Todo tipo de reconstrucción dentaria realizada con materiales de inserción plástica estéticos de auto o fotocurado incluído refuerzos metálicos.",
-  "arancel": 2190
+  "arancel": 2190,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -1918,7 +1997,8 @@
   "submodulo": "PERIODONCIA",
   "codigo": "39.11",
   "prestacion": "Tratamiento de gingivitis marginal crónica.",
-  "arancel": 1309
+  "arancel": 1309,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -1941,7 +2021,8 @@
   "submodulo": "PERIODONCIA",
   "codigo": "39.14",
   "prestacion": "Desgaste selectivo o armonización oclusal.",
-  "arancel": 654
+  "arancel": 654,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -1964,70 +2045,80 @@
   "submodulo": "RECONSTRUCCIÓN UNIDAD BOCA",
   "codigo": "39.17",
   "prestacion": "Desdentado parcial: incluye rehabilitación protésica removible en acrílico con estudios radiológicos necesarias y cubeta individual, mediata o inmediata, por maxilar.",
-  "arancel": 7877
+  "arancel": 7877,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RECONSTRUCCIÓN UNIDAD BOCA",
   "codigo": "39.18",
   "prestacion": "Tratamiento de rehabilitación protésica removible con estructura de cromo cobalto.",
-  "arancel": 12261
+  "arancel": 12261,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RECONSTRUCCIÓN UNIDAD BOCA",
   "codigo": "39.19",
   "prestacion": "Compostura simple.",
-  "arancel": 1309
+  "arancel": 1309,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RECONSTRUCCIÓN UNIDAD BOCA",
   "codigo": "39.20",
   "prestacion": "Compostura con agregado de diente\/s y\/o retenedor\/es.",
-  "arancel": 2190
+  "arancel": 2190,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RECONSTRUCCIÓN UNIDAD BOCA",
   "codigo": "39.21",
   "prestacion": "Rebasado de prótesis completa inmediata o mediata.",
-  "arancel": 3498
+  "arancel": 3498,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RECONSTRUCCIÓN UNIDAD BOCA",
   "codigo": "39.22",
   "prestacion": "Tratamiento protésico en pacientes fisurados.",
-  "arancel": 4379
+  "arancel": 4379,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "PRÓTESIS ODONTOPEDIÁTRICAS",
   "codigo": "39.23",
   "prestacion": "Corona de acero.",
-  "arancel": 1746
+  "arancel": 1746,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "PRÓTESIS ODONTOPEDIÁTRICAS",
   "codigo": "39.24",
   "prestacion": "Mantenedor de espacio fijo.",
-  "arancel": 2190
+  "arancel": 2190,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "PRÓTESIS ODONTOPEDIÁTRICAS",
   "codigo": "39.25",
   "prestacion": "Mantenedor de espacio removible o prótesis parcial.",
-  "arancel": 3076
+  "arancel": 3076,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "TRAUMATISMOS DENTARIOS",
   "codigo": "39.26",
   "prestacion": "Con desplazamiento, avulsión dentaria o fractura radicular.",
-  "arancel": 2190
+  "arancel": 2190,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -2042,7 +2133,8 @@
   "submodulo": "TRAUMATISMOS DENTARIOS",
   "codigo": "39.28",
   "prestacion": "Motivaciones para odontopediatria (hasta 3 consultas).",
-  "arancel": 886
+  "arancel": 886,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -2057,105 +2149,120 @@
   "submodulo": "MALOCLUSIONES",
   "codigo": "39.30",
   "prestacion": "Tratamiento de dentición primaria y mixta.",
-  "arancel": 41622
+  "arancel": 41622,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "MALOCLUSIONES",
   "codigo": "39.31",
   "prestacion": "Tratamiento de dentición permanente.",
-  "arancel": 56959
+  "arancel": 56959,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "MALOCLUSIONES",
   "codigo": "39.32",
   "prestacion": "Tratamiento de malposiciones simples con espacio.",
-  "arancel": 8763
+  "arancel": 8763,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "MALOCLUSIONES",
   "codigo": "39.33",
   "prestacion": "Reposición de aparatos removible por pérdida.",
-  "arancel": 6574
+  "arancel": 6574,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "MALOCLUSIONES",
   "codigo": "39.34",
   "prestacion": "Tratamiento foniátrico (10 sesiones).",
-  "arancel": 3498
+  "arancel": 3498,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Intraoral",
   "codigo": "39.35",
   "prestacion": "Periapical.",
-  "arancel": 443
+  "arancel": 443,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Intraoral",
   "codigo": "39.36",
   "prestacion": "Oclusal.",
-  "arancel": 654
+  "arancel": 654,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Intraoral",
   "codigo": "39.37",
   "prestacion": "Media seriada (hasta 7 placas).",
-  "arancel": 1309
+  "arancel": 1309,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Intraoral",
   "codigo": "39.38",
   "prestacion": "Seriada (hasta 14 placas).",
-  "arancel": 2190
+  "arancel": 2190,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Extraoral",
   "codigo": "39.39",
   "prestacion": "Cráneo, cara, senos paranasales, lateral de cara y mandíbula.",
-  "arancel": 1746
+  "arancel": 1746,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Extraoral",
   "codigo": "39.40",
   "prestacion": "Panorámica.",
-  "arancel": 1746
+  "arancel": 1746,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Extraoral",
   "codigo": "39.41",
   "prestacion": "Telerradiografía.",
-  "arancel": 2190
+  "arancel": 2190,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Extraoral",
   "codigo": "39.42",
   "prestacion": "A.T.M. (6 tomas).",
-  "arancel": 3941
+  "arancel": 3941,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "RADIOLOGÍA Extraoral",
   "codigo": "39.43",
   "prestacion": "Sialografía.",
-  "arancel": 3076
+  "arancel": 3076,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
   "submodulo": "CIRUGÍA AMBULATORIA",
   "codigo": "39.44",
   "prestacion": "Extracción dentaria, todo tipo de toma de material para biopsia, incisión y drenaje de abscesos, alargamiento quirúrgico de corona clínica, liberación óseomucosa de dientes retenidos con o sin elementos para tracción, hemorragia, frenectomía, eliminación de bridas cicatrizales.",
-  "arancel": 886
+  "arancel": 886,
+  "observaciones": "-"
  },
  {
   "modulo": "39. ODONTOLOGÍA",
@@ -2194,4535 +2301,5183 @@
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ACETONURIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ACIDO BASE PH REAL PCO2.E.B Y BIC",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ADDIS. RECUENTO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "AGLUT. ANTI RH SAL. ALBUM. COOMBS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "AGLUT. DEL SISTEMA ABO MEDIO SAL.ALB. CUAN.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "AMNIOT. LIQ. ESPECTROF. TEST LISLEY O LIQ.CELULAS NARANJAS.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ANTICOAGULANTE - PROTOMBINA, TIEMPO DE (QUICK)",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ANTICOAGULANTE. - BERGNIA PALOVSKY",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ANTITROMBINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "AUTOHEMOLISIS O PRUEBA DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "BACTERIOLOGIA DRC.-GRAM-",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "BENCE-JONES, PROTEINAS DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "BILIRRIBINA TOTAL Y DIRECTA.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "BILIRRUBINURIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "BILIS, MICROSCOPIA DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "BRUCELOSIS AGLUTINACION DIRECTA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CALCIO TOTAL O CALCIO IONICO EN SANGRE U ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CALCIO SOBRECARGA, PRUEBA DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CALCULO URINARIO, EXAMEN FISICOQUIMICO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CATECOLAMINAS, SPRAY DE EN ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CELULAS DE MILANI",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CELULAS L.E. - MEDULA\/SANGRE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CELULAS NEOPLASICAS LIQUIDOS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CELULAS TITILANTES",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CITONEMIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CHAGAS, PARASITEMIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CITOLOGIA VAGIN. HORMO. 1 MUESTRA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CL3FE, TEST DEL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CLORO (SANGRE,ORINA Y OTROS LIQ. BIOLOGICOS)",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "COAGULACION Y SANGRIA, TIEMPO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CUAGULO, RETRACCION DEL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "COLESTEROL HDL O LDL O TOT. LIBRE Y ESTERIFICADO.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "COLINESTERASA O PSEUDOCOLINESTERASA SERICA O ERITROCITARIA.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "COLONIAS, RECUENTO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CAMPATIB. SANGUINEA.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CONCENTRAC. PRUEBA FUNC. RENAL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "COOMBS DIRECTA, PRUEBA DE O INDIRECTA CUALITATIVA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CREATINA ORINA O SANGRE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CREATININA , ORINA O SANGRE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CRIOAGLUTININA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CROMATINA SEXUAL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "CUERPOS DE HEINZ",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "DILUCION PRUEBA FUNC. RENAL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "DREPANOCITOS ANAEROBIOSIS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "EOSINOFILOS C\/INY. DE ACTH O RECUENTO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ERITROBLASTOS, PORCENTAJE DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ERITROSEDIMENTACION",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ESPERMA MORFOLOGIA O POTENCIAL DE PEROXIDACION",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ESPERMA PRUEBA DE SOBREVIDA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "EUGLOBULINA TEST DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "EX. NASOFARINGEO INVEST. DE LOEFLER",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FACTOR DE COAGULACION V O VII O VIII O IX O X",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FELILALANINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FENILCETONURIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FERREMIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FONDO OSCURO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FORMULA LEUCOCITARIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FASFATASA ACIDA PROSTATICA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FOSFATASA ACIDA TOTAL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FOSFATASA ALCAL. O CITOQ.-GOMORI",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FOSFATASA ALCAL.CITOQ.-KAPLOW O TERMOESTABLE.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FOSFORO SABGRE\/ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "FOSFOLIPIDOS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GASTRINA PLASMATICA POR PIE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GLOBULOS BLANCOS RECUENTO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GLOBULOS ROJOS RECUENTO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GLUCEMIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GLUCOGENO CITOQUIMICO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GLUTAMIL TRANSPEPTIDASA, GAMMA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GONADOTROFINA CORIONICA INMUNOL.CUALITATIVA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GOTA GRUESA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GRAHAM, TEST-SERIADO 7 DIAS CONSECUTIVOS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GRASAS, MAT FECAL CUALIT.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "GRUPO SANGUINEO ABO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HAN, TEST DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HANGER, REACCION DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEINS CUERPO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMATIES RESIST.GLOBULAR",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMATOCRITO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOAGLUTIGENOS SISTEMA ABO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOAGLUTIGENOG.A2 DU ETC.C\/DETERM",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOGLOBINA DOSAJE DE O EN PLASMA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOGLOBINA\/ALCALI. RESIST.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOGRAMA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOLISINAS EN CALIENTE TITULAC. O SISTEMA ABO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOLISINAS ENFRIO DONALTH LANDSTEINER",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOLISINAS TITULACION",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOLISIS, PRUEBA DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOSIDERINA INVEST. CITOQ.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEMOTIPIFICACION ABO Y RH",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HEPARINA RESIST. A LA INVITRO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HIDATIDOSIS\/HEMOAGLUTINACION",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HISTOPLASMINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HOMOGENTISICO ACIDO-ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HOWEL TIEMPO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HUBBNER TEST DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "HUDDLESSON REAC",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "KUNKEL, REACCION DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LACTICO ACIDO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LAZO PRUEBA DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LECHE MATERNA EXAMEN DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LEISHMANIASIS, INTRADERMOREACCION",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LEUCINAMINOPEPTIDASA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LEUCOCITOS EN MATERIA FECAL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LIPEMIA O LIPIDEMIA TOTAL EN SANGRE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "LIQUIDO SINOVIAL CITOLOGIGICO O CRISTALOGRAFIA O FISICO QUIMICO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MAC LAGAN REACCION DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MAGNESIO EN SANGRE\/ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MICOLOGIA DIREC. O COLOR",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MICROALBUMINURIA EN ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MOCO CERVICAL CRISTALIZ. DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MOCO NASAL PH Y CITOLOG.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MONONUCLEOSIS DAVIDSON - PAUL BUNNEL.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MOCONUCLEOSIS HEMOAG.-P. BUNNEL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MONOXIDO DE CARBONO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MUCOPROTEINAS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MUCOSEMEN CRUZADO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "MYCOBACTERIUM IDENTIFICACION",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "ORINA COMPLETA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "OSMOLARIDAD, ORINA O SUERO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PARASITOL. MAT.FECAL SERIADO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PARASITOS HEMATICOS O SUPER. MAT. FECAL",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PEROXIDASAS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PH EN SANGRE, TITULAC. POTENC.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PLAQUETARIOS, FACTORES",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PLAQUETAS MICROAGREGACION O RECUENTO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PLAQUETAS Y\/O LEUCOCITOS, MICROAGREGACION",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PLASMA RECALCIF., TIEMPO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PROTEINAS FRAC. ALB.GLOBUL. O TOTALES",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PROTEINURIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PROTROMBINA CONSUMO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PROTROMBINA OWREN O DUCKERT",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PROTROMBINA, TIEMPO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "PSITACOSIS, REACCION DE BEDSON",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "RESISTENCIA CAPILAR (PETEQUIMETRIA)",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "RETICULOCITOS, RECUENTO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "RH",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "RH FACTOR C O D",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "SIA TEST DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "SIDEROFILINA CAPAC. DE SATURAC.",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "SIMS HUBBNER TEST DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "SULFATO DE PROTAMINA, PRUEBA DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "TRANSAMINASA GLUTAMICO OXALACETICA\/TGO O PIRUVICA\/TGP",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "TRIGLICERIDOS",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "TROBINA TIEMPO DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "UREA O CLEARENCE DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "URETRAL, EXUDADO O FLUJO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "URICEMIA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "URICO, ACIDO EN ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "UROBILINA CUANTITAT. EN ORINA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "UROCITOGRAMA UNA MUESTRA",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "VAGINAL, EXUD O FLUJO",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría I",
   "codigo": "40.01",
   "prestacion": "WIDAL, REACCION DE",
-  "arancel": 191
+  "arancel": 191,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "AGAR ELECTROFORESIS",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "AGLUTININAS IRREGULARES SISTEMA ABO O TITULACION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ALFA NAFTIL ACETATO ESTERASA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "AMEBIASIS SEROLOGIA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "AMILASA SANGRE\/ORINA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "AMINOACIDOS AZUR. BRAND. CAT. DNPH. MI",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "AMONEMIA.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ANTIBIOGRAMA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ANTIBIOGRAMA BAC. DE KOCH-TRES ANTIBIOTICOS.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ANTIESTREPTOLISINAS (ASTO POR TURBIDIMETRIA)",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ARTRITIS REUMATOIDEA LATEX",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ASPERGILINA, INTRADERMOREACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "BACILOSC. DIREC. Y CULTIVO O DIREC. ZIEHL NIELSEN",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "BRUCELOSIS 2 MERCAPTO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CALCULO DE VESICULA HEPATICA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CANDIDINA, INTRADERMOREACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CETO. 17 NEUT. URINARIA TOTAL",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CETOGENOESTEROIES URINARIOS",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CHAGAS (ELISA)",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CHAGAS (LATEX) O AGLUTINACION DERECTA O INDIRECTA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CHLAMYDA TRACHOMATIS, COLORACION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CITOLOGIA VAGIN. HORMO. 4 MUSTRAS O UN CICLO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CUAGULOG. BASICO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "COCCIDIOCINA, INTRADERMOREACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "COMPATIB. RHOGAM SANGRE MAT. DU Y COOMBS IND.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "COOMBS INDIRECTA CUANTITATIVA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CREATININA\/CLEARENCE O DEPURAC. DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "CRYPTOSPORICIUM",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ELECTROF. POLIACRILAMIDA CUALIT.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ELUCION DE ANTICUERPOS",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "AMBARAZO REACCION INMUNOLOG.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ESPERMA TEST DIRECTO O INDIRECTO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ESPERMA SLIDE TEST",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ESPERMA TEST HIPO OSMOTICOS O TRIPLE COLORACION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ESPERMOGRAMA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ESTRADIOL EN ORINA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "FIBRINOGENO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "FASFATASA ALCALINA ISOENZIMAS",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "FOSFORO CLEARENCE DEPURACION O REABSORCION TUBULAR",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GLOBULINA GAMMA EN SUERO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GLUCAGON TEST DEL",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GLUCOSA 6-FOSFATODEHIDROGENASA EN ERITROSITO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GLUCOSA FOSFATO DEHIDROGENASA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GLUCOSA POST PRANDIAL",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GLUTAMATO DEHIDROGENASA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GONADOTROFINA CORIONICA MET.BIOL.CUAL.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "GRASAS, MAT. FECAL CUANT. VAN DE KAMER",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HEMOGLOBINAS INESTABLES",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HEMOCULTIVO AEROB. Y ANAEROB.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HEMOGLOBINA ELECTROF. DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HEPATITIS B anti HBs (ANTIC. SUO)",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HEPATITIS B ANTIG. DE SUP",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HIDATIDOSIS: ARENILLA HIDATIDICA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HIDROXIPROLINURIA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HIERRO EN MEDILA OSEA (REACCION DE PERLS)",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HISTOPLASMA CAPSULATUM INTRADERMORREACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "HISTOPLASMINA INTRADERMOREACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "INTRADERMORRACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "IONAGRAMA PLASMATICO O URINARIO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "KPTT O TTPC",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "L.E. LATEX",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LACTAMASA PRUEBA DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LACTICO ACIDO EM MATERIA FECAL",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LACTICO DEHIDROXIGENASA (LDH)",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LCR, PARASITOLOGICO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LIPASA EN SANGRE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LIPIDOGRAMA ELECTROFORETICO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LIPOPROTEINA BETA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LIQUIDO CEFALORRAQUIDEO FISICO\/QUIMICO\/CITOLOGICO Y BACT.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LIQUIDO DE PUNCION FISCO-QUIMICO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LIQUIDOS DE PUNCION FIS.QUIM.CITOL. Y BAC.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LISINA-VASOPRESINA TEST DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LISIS POR SUCROSA, PRUEBA DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "LITIO SANGRE\/ORINA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "MEDULOGRAMA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "METAHEMOGLOBINA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "MICOLOGIA CULTIVO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "MICOSIS SUPERFICIALES, DIRECTO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "MOCONUCLEOSIS MONOTEST",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "MONONUCLEOSIS HEMOLIT.-PETERSON",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "MYCOPLASMA PPLO.INVESTIG.DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "NUCLEOTIDASA 5´",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "OSMOLAL, CLEARENCE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PAP. ENDO Y EXOC.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PARACOCCIDIODINA, INTRADERMOREACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PNUMOCYSTITIS CARINII GRAM W GIEMSA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PIRUVATO-QUINASA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PIRUVICO ACIDO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PNEUMOCYSTITIS CARINII COLOR TRICROMICA O EN BIPSIA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PORFOBILINOGENO EN ORINA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PROTEINA C REACTIVA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "PROTEINOG. EN ACET. DE CELUL. O LIQ. BIOL.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "ROSE RAGAN, PRUEBA DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "SALICILATOS",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "SICKLIN, TEST DE",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "SUDOR TEST DE ELECTROLITOS",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "SULFOHEMOGLOBINA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "TOXOPLASMOSIS FIJAC. COMPLEM.",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "TOXOPLASMOSIS AGLUTINACION DIRECTA O INDIRECTA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "TRICOFITINA, INTRADERMORREACCION",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "UROCITOGRAMA\/ 4 MUESTRAS O UN CICLO",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "VDRL",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría II",
   "codigo": "40.02",
   "prestacion": "VENTANA CUTANEA",
-  "arancel": 788
+  "arancel": 788,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ALFA FETO PROTEINA (AFP)",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "AMNIOT. LIQ. REL. LECIT. ESFINGOMIEL.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTI RETICULINA IFI",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTI GLOM. INMUNOFLUOR",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTI MEMB. BASAL INMUNOFL",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTI MUSC. LISO INMUNOFLUORESCENCIA (ASMA).",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTICELULA PARIETAL (APCA)",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTIFRAC.MICROS.TIROI.-HEMO. O INMUNO",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTINUCLEARES (ANA,FAN)",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTITIROGLOB. HEMOAGLUT. O INMUNOFL.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTIMITOCONDRIAL (AMA)",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIC. ANTI DNA O DESNATURALIZADO",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIDESOXIRRIBONOCLUEICO LATEX",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTIFUNGICOS, SENSEBILIDAD A LOS",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "ANTITROMBINA III BIOLOGICO",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "AUTOVACUNA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "BASILOSC. INMUNOFLUORESC.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "BACTER.DIREC. Y CULT. C\/ID.BIO.GER.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "BACTERIA AISLADA, ANTIC.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "BACTERIA, ANTIC. LIGADO A (IFI)",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CEA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CETO. 17 PRUEBA A LA INHIB. CON DEXAMETASONA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CETO. -17 PRUEBA A LA INHIB. CON DEXAME. Y GONAD.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CHAGAS, INMUNOFLUORESCENCIA (IFI)",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "COBRE EN SANGRE",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "COMPLEMENTO ACTIVIDAD TOTAL O INMUNOQUIMICO C3 C4",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CONN Y FAJANS, PRUEBA DE",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CORRECCIONES CON PLASMA NORMAL",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CPK CREATINQUINASA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CRIOGLOBULINAS",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "CRYPTOCOCCUS CULTIVO",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "FERRITINA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "FIBRINA PRODUC. DEGRAD-PDF",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "FOSFOHEXOSA-ISOMERASA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "FTA\/200 INMUNOFLUORESCENCIA O FTA\/ ABS",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "GALACTOSURIA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "GASES EN SANGRE",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "GLUCIDOS-ORINA-CROMATINA, BIDIMENSIONAL.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "GONADOTROFINA CORION.MET.BIOL.CUANT.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "GONADOTROFINA CORIONICA SUB UNIDAD BETA CUALITATIVA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "HEMOFILIA CLASIFICACION",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "HEMOPEXINA INMUNODIF. CUANT.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "HEPARINA TEST DE TOLERANCIA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "HEPATITIS A ANTI HAV IgG",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "HEPATITIS B ANTI HBc ANTICORETOTAL",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "HIDATIDOSIS IFI",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "HIDRATOS DE C. CROMAT.BIDIM",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "INMUNOELECTROF. LIQ. BIOL.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "INMUNOGLOB. A IGA CAD. ALFA CUANT.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "INMUNOGLOB. D IGD CAD. DELTA CUANT.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "INMUNOGLOB. G IGG CAD.GAMMA CUANT.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "INMUNOGLOB. M IGM CAD. MU CUANT.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "LACTICO DEHIDROXIGENASA \/ISOENZIMAS",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "LEGIONELLA ANTICUERPOS",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "MICOSIS PROFUNDAS, DIRECTO Y COLORACIONES",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "MICOSIS SUPERFICIALES, CULTIVOS E IDENTIF.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "MYCOPLASMA PNEUMONIAE ANTIC. LATEX",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "NEISSERIA MENINGITIDIS CULTIVO",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "OXIGENO, SANGRE-P02-",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "PANCREAT.LIQ.FIS.QUIM.C\/EXTRAC.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "PAROTIDITIS ANTIC. VIRAL (FC) O SOLUBLE",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "PLAQUETAS ADHESIVIDAD",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "PREGNANOTRIOL",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "SANGRE OCULTA MAT. FECAL",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "SINCICIAL RESPIRATORIO VIRUS, ANTIC.FIJ.DE COMPL.",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "TOXOPLASMOSIS ANTIC IGG (ELISA)",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "TPHA (PARA TREPONEMA) O MHATP",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "TROMBLOPLAST, GENERA. DE",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "TZANCK, CITODIAGNOSTICO DE",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "UROCULTIVO",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría III",
   "codigo": "40.03",
   "prestacion": "VAINILLIN MANDELICO EN ORINA",
-  "arancel": 1978
+  "arancel": 1978,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ACIDO 5 HIDROXI-INDOL ACETICO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ACTH POR R.I.E",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC ARREGULARES IDENTIF PANEL GLOBULAR",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ADENOGRAMA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ADENOVIRUS ANTIC. IGM O IGG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ALDOLASA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ALDOSTERONA PLASMATICA R.I.E O URINARIA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ALFA I ANTITRIPSINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "AMEBIASIS IFI",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANAEROBIOS CULTIVO.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANDROSTEODIONA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTI CARDIOLIPINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTI PEROXIDASA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIBIOGRAMA BAC. DE KOCH-SIETE ANTIBIOTICOS.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIBIOGRAMA PARA ANAEROBIOS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIBIOGRAMA POR CMB PARA 1 ATB",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIBIOGRAMA POR DILUCION CIM + CBM PARA 1 ATB",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIBIOTICO DOSAJE DE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC. ANTI CENTROMERO (ACA) (IFI O ELISA)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC. INDUCIDOS POR DROGAS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC. INMUNES LANDSTEINER O WITEBSKY",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC. ANTI MUSCULO ESQUELETICO O ANTI RNP",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC. ANTITIROGLOBULINA ULTRA SENCIBLE (IRMA)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC. ELUCION DE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC.N.A A NUCLEOLAR (IFI)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIC.S.M.A. ACTINA (IFI) (ASMA ACTINA)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTICOAGULANTE LUPICO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIG. Du",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIG. PROSTATICO ESPECIFICO (PSA APE PSA LIBRE)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTIGENEMIA DE CRIPTOCOCO EN LIQ. BIOLOGICOS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ANTITROMBINA 3 INMUNOLOGICA O SUS CROMOG.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "APOLIPOPROTEINA A O B",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ASPERGILLUS ANTIC., FIJACION DE COMPLEMENTO.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ASPERGILLUS ANTIC., INMUNODIFUCION CUALITATIVA O CUANTITATIVA.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ASPERGILLUS ANTIC., CONTRAINMUNOELECTROFORESIS.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "BACTERIOLOGICO ANAEROBIOS O LIQ. DE PUNCION Y HERIDAS.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "BETA 2 MICROGLOBULINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "BORDETELLA PERTUSSIS ANTIC. IGG O IGM O ANTIG. (IFI)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "BRUCELOSIS ANTIC. IGG O TOTALES.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CADENA LIVIANA KAPPA Y LAMDA CADA UNA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CAFEINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CALCITONINA PLASMATICA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CANDIDA ANTIC., FIJACION COMPLEMENTO O INMUNODIFUSION.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CANDIDA ANTIGENEMIA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CANDIDA FOGOCITOSIS DE, MACROFAGOS O DE POLIMORFONUCLEAR.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CANDIDA, CULTIVO O RECUENTO DE COLONIAS EN MAT. FECAL.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CARBAMAZEPINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CARIOTIPO. MAPA CROMOSIMICO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CATECOLAMINAS LIBRES FRAC. O URINARIAS TOTALES",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CD 13 CD 19 CD23 CD34 CD7 CDR CD14 CD25",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CERULOPLASMINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CHAGAS ELISA IGM O HEMOCULTIVO PARA TRIPANOSOMA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CHLAMYDIA PSITACCI ANTIC. FIJACION COMPLEMENTO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CICLOCPORINEMIA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CISTICEROCOSIS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CITOMEGALOVIRUS ANTIC. IGG. TOTALES",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CLOSTRIDIUM, CULTIVO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COCCIDIOIDES, ANTIC. FIJACION COMPLEMENTO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COCCIDIOIDES, ANTIC. INMUNODIF. CUALIT. O CUANT.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COCCIDIOIDES, CONTRAINMUNOELECTROFORESIS.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COMPATIB. SANGUINEA EN MEDIO ENZAMATICO O SALINO Y ALBUMINOSO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COMPATIB. SANGUINEO MATRIMOVIAL 2 ABO Y 2R",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COMPLEJO INMUNES CIRCULANTES",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CONFIRMACION DE SUBGRUPOS ABO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COPROCULTIVO O C\/CAMPYLOBACTER O C\/YERSINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CORTISOL LIBRE URINARIO O PLASMATICO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CORYNEBACTERIUM DIPHTERIAE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COXIELLA BURNETTI (FIEBRE O)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COXSAKIE A 7,9,10,16 ANTICUERPOS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "COXSACKIE ANTICUERPOS B1 AL B6 C\/U",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CPK MB",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CRYPTOCOCCUS ANTIG. LATEX",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CRYPTOCOCCUS ANTIG. ELISA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "CULTIVO BACTERIOLOGICO DE TEJIDO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "DEHIDROEPIANDROSTENEDIONA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "DEHIDROEPIANDROSTERONA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "DIFENILHIDANTOINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "DOPAMINA SERICA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "EPSTEIN BARR ANTIC.\/ EB VCA IgG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "EPSTEIN BARR ANTIC. ANTIGENO TEMPRANO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPERMA ADENOSINTRIFOSATO EN O BIOQUIMICA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPERMA INMUNOBEAD DIRECTO O INDIRECTO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPERMA SELECCIÓN GRADIENTE PERCOLL",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPERMA SELECCIÓN POR SWIN UP POR SWIN",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPERMA TEST DE HETEROGENEIDAD",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPERMOCULTIVO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPOROTRICOSIS ANTIC.CIE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESPUTO SERIADO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESTRADIOL PLASMATICO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESTROGENOS TOTALES",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ESTRONA PLASMATICA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FACTOR DE COAG. XIII (DOSAJE)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FACTOR II",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FACTOR IX CURVA DE DILUCION",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FACTOR VII TITULACION DE INHIB",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FACTOR VIII CURVA DE DILUCION O DETECC. INHIB",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FACTOR VON WILLEBRAND",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FOGOCITOSIS, INDICE DE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FENILHIDANTOINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FENOBARBITAL",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FENOTIPO RH",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FIBRINA CON REPTILASA O CON TROMBINA Y T. CALC.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FIBRINOLITICA ACT. EN PLACA DE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FITOHEMOAGLUTININAS PHA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FOSFATASA ACIDA PROSTATICA (ELISA)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FRUCTOSAMINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "FSH",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "GENOTIPO RH",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "GLUCAGONURIA ELISA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "GLUCEMIA CURVA DE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "GONADOTROFINA HIPOFISI 1 Y 2 NIVELES",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "GRUPO SANGUINEO DUFFY O KELL O LIDO A O LEWIS A Y B. O M O N O S",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HAEMOPHILUS INFLUENZAE SC,ETC.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEPATOGLOBINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HB. FETAL",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HELICOBACTER PYLORI ANTICUERPO O CULTIVO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HELICOBACTER PYLORI DETERMINACION DE UREASE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEMOCULTIVO MICOLOGICO - (MET.LISIS CENTRIF.)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEPATITIS A ANTI HAV IgM",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEPATITIS B ANTI \"e\" - ANTI Hbe",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEPATITIS B Hbe Ag (Ag \"E\")",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEPATITIS C HCV ANTIC. ELISA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEPATITIS C ANTIC AGLUTINACION DE PARTICULAS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HEPATOGRAMA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HERPES ANTICUERPOS IgG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HHV-6 IgG (IFI) (HERPES VIRUS HUMANO 6)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HIDATIDOSIS ARCO 5",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HISTOPLASMA CULTIVO.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HISTOPLASMA, ANTIC CONTRAINMUNOELECTROFORESIS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HISTOPLASMA, ANTIC FIJACION DE COMPLEMENTO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HISTOPLASMA, ANTIC INMUNODIF. CUALITATIVA O CUANTITATIVA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HIV ANTIC (ELISA)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HIV ANTIC AGLUTINACION DE PART. DE GELATINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HOMOVANILICO, ACIDO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "HTLV 1+2 ANTIC (ELISA) O 1 ANTIC (POR PARTICULAS DE GELATINA)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "IGA (SALIVA - MOCO)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "IGE ESPECIFICOS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "IGFBP3 PLASMATICO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ILK 1 O 2",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "INFLUENZA A Y B ANTIG (AG) IFI O ANTIC IgG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "INFLUENZA ANTIC. A O B C\/U",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "INMUNOCOMPLEJOS INDUCIDOS POR DROGAS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "INMUNOELECTROFORESIS EN ORINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "INMUNOGLOB. E EGE CUANTI.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "INSULINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "LEGIONELLA PNEUMOPHYLA ANTIGENOS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "LEISHMANIASIS, IFI",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "LH",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "LIDOCAINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "LISTERIA CULTIVO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "MANGANESO EN SANGRE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "MICOSIS PROFUNDAS, CULTIVOS E IDENTIF.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "MYCOPLASMA ANTIBIOGRAMA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "MYCOPLASMA GENITALES CULTIVO HOMINIS O UREALITICOM",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "MYCOPLASMA PNEUMONIAE ANTI AGG (IFI) O IGM (IFI)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "MYCOPLASMA PNEUMONIAE CULTIVO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "NEUMOCOCO CONTRAINMUNOELECTROFORESIS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "NORADRENALINA PLASMATICA O URINARIA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PALUDISMO ANTIC IFI",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PANEL GLOBULAR INVESTIGACION O PARA AGRUPAMIENTO INVERSO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PANEL CELULAR CON AG. COMPLETOS",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PANNEL P1-P2-P3",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PAPILLOMAVIRUS EN BIOPSIA (ICQ) O EN EXTENDIDO (ICQ)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PARACOCCIDIOIDES, ANTIC. CONTRAINMUNOELECTROFOQ.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PARACOCCIDIOIDES, ANTIC. FIJACION COMPLEMENTO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PARACOCCIDIOIDES, ANTIC. POR INMUNODIF.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PARAINFLUENZA ANTIC. IgG O IgM",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PAROTIDITIS ANTIC. IGG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PARVOVIRUS B19 serologia ac. IGG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PROGESTERONA 17 HIDROXI",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "PROLACTINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "RENINA ANGIOTENSINA PLASM.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "REPTILASA, TIEMPO DE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "RICHETSIAS, REACCION DE WEIL",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ROSETAS EA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "ROTAVIRUS ANTIC.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "RUBEOLA ANTIC. IgG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "SARAMPION ANTIC. IGG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "SEROTONINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "SINCICIAL RESPIRATORIO VIRUS IgG, IgM, IFI",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "SOMATOTROFINA PLASMAT.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "STRPTOCOCCUS PYOGENES, GRUPO A (TEST RAPIDO)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "T3 TOTAL TRIIODOTIRONINA TOTAL",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "T4 LIBRE",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TESTOSTERONA LIBRE PLASMATICA O PLASMATICA O URINARIA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TIROXINA EFECT. O TOTAL (T4)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TITULACION \"O\" PELIGROSO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TOXOPLASMOSIS ANTIC. IGM",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TOXOPLASMOSIS IGG (IFI)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TPHA IGM (HEMOAGLUTINACION PARA TREPONEMA)",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TRANSFERRINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TRIIODOTIRONINA",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TSH NEONATAL",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "TSH , TIROTROFINA PLASMAT.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "VALPROICO ACIDO",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "VARICELA ZOSTER ANTICUERPOS DIRECTO IgM O IgG",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "VARICELA ZOSTER MONOCLONAL.",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "VIDRIO CHOLERAE CULTIVO E IDENTIFICACION",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "VIRUS JUNIN ANTIC. IgG \/ IgM",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IV",
   "codigo": "40.04",
   "prestacion": "VITAMINA B12",
-  "arancel": 3555
+  "arancel": 3555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ADENOVIRUS CULTIVO EN CELULAS O DIR. CON MONOC.",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ADRENALINA PLASMATICA O URINARIA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANGIO I ACT.ENZ.CONVERT. DE",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANTIBIOGRAMA PARA MICOBACTERIAS (MET. RADIO. RAPIDO)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANTIC. L.K.M 1 (IFI) O L.K.M 2",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANTIC. AL RECEPTOR DE TSH (TRAB., TBII)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANTIC.M.A. TIPO M2\/M4 (IFI) (AMA)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANTIC. ANTI JO O ANTI LA O ANTI RO O ANTI SCL 70 O ANTI SM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANTIC. ANTINEUTROFILOS (ANCA)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ANTIOXIDANTES TOTALES.",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ASPERGILLUS, ANTIGENEMIA O CULTIVO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CA 12-5 (OVARIO) O CA 15-3 (MAMARIO)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CA 19-9 (COLON)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CANDIDA, TIPIFICACION",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CARDIOLIPINA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CHLAMYDIA PNEUMONIAE IGG O IGM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CHLAMYDIA PSITACCI ANTIC. IGG O IGM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CHLAMYDIA TRACHOMATIS ANTIC. IGG",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CIM PARA CADA ANTIFUNGICO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CITOMEGALOVIRUS ANTIC. IGM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CITOMEGALOVIRUS IDENT.",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CROSS LAPS (SUERO)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CROSS MACH",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CRYPTOCOCCUS ANTIC.SANGRE\/ORINA\/LC",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "CULTIVO PARA MICOBACTERIAS MET. RADIOMETR.RAPIDO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "AENA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "EPSTEIN BARR ANTIC.\/ EB VCA IgM O EBNA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ESPERMA ACROSINA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ESTRADIOL RAPIDO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ESTREPTOCOCO GRUPO B EN LCR DIAGNOSTICO RAPIDO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "FACTOR NECROSIS TUMORAL (TNR)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "FAGOCITOSIS CANDIDA PMN",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "FAUCES EXUDADOS DIAG. RAPIDO (ESTREPTOCOCO GRUPO A)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HEMOCULTIVO (2 MUESTRA MET. AUTOMAT.RAPIDO)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HEMOCULTIVO PARA MICOBACTERIAS (MET. RADIOMETR.RAP.)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HEMOGLOBINA GLICOSILADA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HEPATITIS B ANTI HBC IgM, ANTICORE IGM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HERPES ANTICUERPOS IgM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HERPES IDENTIF. DE ANTIGENOS POR ANTIC. MONOCLONALES",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HERPES, CULTIVO EN CELULAS",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HISTOPLASMA ANTIGENEMIA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "HIV ANTIC (IFI)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "IDENTIFICACION BACTERIANA (AUTOMAT. RAPID)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "INMUNOGLOB. G IgG SBCLASES",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "|INMUNOGLOBULINAS DE SUPERFICIE",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "INSULINA ANTIC.",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "INTERLEUKINA 2 O 6 DOSAJE EN SUERO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "LEVADURAS TIPIFICACION",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "MENINGITIS (NEUMO:H,INFL.B:MENINGO ABC)DIAG. RAPIDO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "OSTEOCALCINA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "PARATHORMONA, PLASMAT.",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "PAROTIDITIS ANTIC IGM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "PARVOVIRUS B19 ANTIC IGM O DIRECTO Y BIOPSIAS",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "PROGESTERONA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "PROTEINA TRANSPORTADORA SHBG, GLAE",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "ROTAVIRUS ANTIG.",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "RUBEOLA ANTIC. IgM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "SARAMPION ANTIC. IgM",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "SARAMPION DIRECTO MONOCLONAL, IFI",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "SHBG GLOB. LIG.DE ANDRO. Y ESTROG. (GLAE)",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "SOMATOMEDINA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "TIROGLOBULINA PLASMATICA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "TOXOCARA",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "TSH, TOROTROFINA PLASMATICA ULTRASENSIBLE",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría V",
   "codigo": "40.05",
   "prestacion": "UREAPLASMA UREALYTICUM CULTIVO",
-  "arancel": 4941
+  "arancel": 4941,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "ADH-HORMONA ANTIDIURETICA PLASMATICA URINARIA.",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CD3, CD4, CD8, CD19, POR IFI",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CD4 CD8 (ELISA) O CD4 CD8 CITOMETRIA DE FLUJO",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CD4, CD8 POR CAPTACION INMUNOMAGNETICA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CHLAMYDIA TRACHOMATIS ANTIC. IGM",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CHLAMYDIA TRACHOMATIS DIR.CON MONOC. (IFI) O CULTIVO",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CHLAMYDIA, ANTIG. (ELISA)",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CITOMEGALOVIRUS CULT. CERVIX U OTROS CULTIVOS",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "CITOMEGALOVIRUS PP65",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "D-PIRIDOLINA URINARIA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "ENTEROVIRUS CULTIVO DE CELULAS HUMANA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "ESTROGENOS RECEPTORES DE",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "ETANOL, TEST DE",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "GLUTATION PEROXIDASA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "HEPATITIS DELTA ANTIC.",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "HERPES 6 HHV- 6 IgM (IFI)",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "HIV ANTIGENO P24 (CUANTIFICACION)",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "LEGIONELLA CULTIVO",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "LEPTOSPIRA TR.AGLUTINACION",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "METANEFRINAS URINARIAS",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "P50",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "PARAINFLUENZA CULTIVO DE VIRUS EN CELULA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "PARAINFLUENZA DIR. MONC. (ANTIG IFI)",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "PAROTIDITIS CULTIVO",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "PEPTIDO C DE INSULINA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "PIRIDOLINA URINARIA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "PROGESTERONA, RECEPTORES DE",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "RHINOVIRUS CULTIVO EN CELULAS HUMANAS",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "SUPEROXIDO DISMUTASA",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "TORCH ANTIC. IgG O HER IgM",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "TOXOPLASMOSIS CULTIVO DE CELULAS",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "VARICELA DIRECTA MONO.",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VI",
   "codigo": "40.06",
   "prestacion": "VARICELA ZOSTER cultivo en celulas",
-  "arancel": 15775
+  "arancel": 15775,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VII",
   "codigo": "40.07",
   "prestacion": "INFLUENZA ANTICUERPOS IgM",
-  "arancel": 18737
+  "arancel": 18737,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VII",
   "codigo": "40.07",
   "prestacion": "INFLUENZA CULTIVO EN CELULAS",
-  "arancel": 18737
+  "arancel": 18737,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VII",
   "codigo": "40.07",
   "prestacion": "LEPTOSPIRA MAT. AGLUTINACION",
-  "arancel": 18737
+  "arancel": 18737,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VII",
   "codigo": "40.07",
   "prestacion": "REOVIRUS ANTIC.",
-  "arancel": 18737
+  "arancel": 18737,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VIII",
   "codigo": "40.08",
   "prestacion": "EPSTEIN BARR, HIDRIDIS EN LINFOCITOS",
-  "arancel": 31555
+  "arancel": 31555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VIII",
   "codigo": "40.08",
   "prestacion": "HEPATITIS C HCV\/ENSAYO CONFIRMATORIO",
-  "arancel": 31555
+  "arancel": 31555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VIII",
   "codigo": "40.08",
   "prestacion": "HISTOPLASMA ANTICUERPOS ELISA",
-  "arancel": 31555
+  "arancel": 31555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VIII",
   "codigo": "40.08",
   "prestacion": "HIV ANTIC (WESTER-BLOT)",
-  "arancel": 31555
+  "arancel": 31555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría VIII",
   "codigo": "40.08",
   "prestacion": "HIV ENVA\/CORE",
-  "arancel": 31555
+  "arancel": 31555,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IX",
   "codigo": "40.09",
   "prestacion": "BORRELLA BURGDORFERI (LYME) IFI",
-  "arancel": 45352
+  "arancel": 45352,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IX",
   "codigo": "40.09",
   "prestacion": "CITOMEGALOVIRUS HIBRIDI.",
-  "arancel": 45352
+  "arancel": 45352,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IX",
   "codigo": "40.09",
   "prestacion": "CITOMEGALOVIRUS PCR.",
-  "arancel": 45352
+  "arancel": 45352,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IX",
   "codigo": "40.09",
   "prestacion": "ENTEROVIRUS, PCR",
-  "arancel": 45352
+  "arancel": 45352,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IX",
   "codigo": "40.09",
   "prestacion": "HEPATITIS C PCR",
-  "arancel": 45352
+  "arancel": 45352,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IX",
   "codigo": "40.09",
   "prestacion": "HIV CULTIVO",
-  "arancel": 45352
+  "arancel": 45352,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría IX",
   "codigo": "40.09",
   "prestacion": "HTLV-1+2, CONFIRMATORIO",
-  "arancel": 45352
+  "arancel": 45352,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría X",
   "codigo": "40.10",
   "prestacion": "CARGA VIRAL PARA HIV.",
-  "arancel": 54228
+  "arancel": 54228,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría X",
   "codigo": "40.10",
   "prestacion": "ECHOVIRUS 4, 9, 11, 30 ANTICUERPOS",
-  "arancel": 54228
+  "arancel": 54228,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría X",
   "codigo": "40.10",
   "prestacion": "HIV PCR",
-  "arancel": 54228
+  "arancel": 54228,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría X",
   "codigo": "40.10",
   "prestacion": "HIV CULTIVO DE LCR Y OTROS MATERIALES",
-  "arancel": 54228
+  "arancel": 54228,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría X",
   "codigo": "40.10",
   "prestacion": "NEUTROFILOS ESTUDIOS FUNCIONALES(ADHESIVO.- FOGOSIT)",
-  "arancel": 54228
+  "arancel": 54228,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría X",
   "codigo": "40.10",
   "prestacion": "PAPILLOMAVIRUS HIBRIDACION",
-  "arancel": 54228
+  "arancel": 54228,
+  "observaciones": "-"
  },
  {
   "modulo": "40. LABORATORIO",
   "submodulo": "Categoría X",
   "codigo": "40.10",
   "prestacion": "PAPILLOMAVIRUS PCR",
-  "arancel": 54228
+  "arancel": 54228,
+  "observaciones": "-"
  }
 ]
